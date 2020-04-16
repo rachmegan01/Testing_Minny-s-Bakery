@@ -1,0 +1,25 @@
+	header{
+
+		background-color: #BAACA9;
+		height: 200px;
+	}
+
+	.article{
+		background-color: green;
+		height: 600px;
+		overflow: hidden;
+		
+		
+	}
+	footer{
+
+		background-color: #BAACA9;
+		height: 110px;
+	}
+
+	img{
+		background-repeat: no-repeat;
+		width: 100%;
+	}
+
+
